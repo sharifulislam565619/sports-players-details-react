@@ -1,0 +1,19 @@
+.footer-section{
+    background-color: rgb(199, 199, 199);
+    text-align: center;
+    padding: 20px 0;
+}
+
+.social-icon i{
+    font-size: 20px;
+    margin-right: 15px;
+    cursor: pointer;
+    transition: .5s;
+
+}
+
+.social-icon i:hover{
+    color: blue;
+   transform: rotate(90);
+  
+}
